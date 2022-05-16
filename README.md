@@ -1,4 +1,5 @@
 # Tricky-Cups
+Tricky Cups Game
 
 ![p1](https://user-images.githubusercontent.com/103464885/168626881-82614191-64e6-4f2c-b144-5ab55dcfe6e8.PNG)
 
